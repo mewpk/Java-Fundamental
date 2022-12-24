@@ -1,6 +1,6 @@
 
 
-public class booleans {
+class booleans {
     public static void main(String[] args) {
         String text = "string";
 

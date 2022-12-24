@@ -1,4 +1,4 @@
-public class dataloss {
+class dataloss {
     public static void main(String[] args) {
         // small --> big
         int number1 = 500;

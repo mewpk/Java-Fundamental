@@ -1,4 +1,4 @@
-public class variable {
+class variable {
     public static void main(String[] args) {
         final int number1;
         float number2;
