@@ -5,7 +5,7 @@ public class dataloss {
         double number2 = number1;
 
         // big --> small
-        double number3 = 123.456;
+        double number3 = 123.456f;
         int number4 = (int)number3;
 
         System.out.println(number1);
